@@ -1,4 +1,6 @@
-# Single-eye-Emotion-Recognition
+# In the Blink of an Eye: Event-based Emotion Recognition
+Haiwei Zhang, [Jiqing Zhang](https://zhangjiqing.com), [Bo Dong](https://dongshuhao.github.io/), Pipter peers, Wenwei Wu, Xiaopeng Wei, Felix Heide, [Xin Yang](https://xinyangdut.github.io/)
+[paper] [dataset]
 <img width="100%" src="https://github.com/zhanghaiwei1234/Single-eye-Emotion-Recognition/blob/main/img/introduce.png"></a>
 Demonstration of a wearable single-eye emotion recognition prototype system consisting with a bio-inspired event-based camera (DAVIS346) and a low-power NVIDIA Jetson TX2 computing device. Event-based cameras simultaneously provide intensity and corresponding events, which we input to a newly designed lightweight Spiking Eye Emotion Network (SEEN) to effectively extract and combine spatial and temporal cues for emotion recognition. Given a sequence, SEEN takes the start and end intensity frames (green boxes) along with $n$ intermediate event frames (red boxes) as input. Our prototype system consistently recognizes emotions based on single-eye areas under different lighting conditions at $30$ FPS. 
 
