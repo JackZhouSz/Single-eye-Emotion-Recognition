@@ -16,6 +16,10 @@ To address this lack of training data for event-based emotion recognition, we co
 
 our dataset can be found [here]().
 
+## our Neworks(SEEN)
+<img width="100%" src="https://github.com/zhanghaiwei1234/Single-eye-Emotion-Recognition/blob/main/img/pipeline-V5.png"></a>
+
+
 ## Requirements
 
 * Python == 3.7
@@ -23,6 +27,14 @@ our dataset can be found [here]().
 * Pytorch == '1.9.0'
 
 * CUDA == 11.4
+
+* torchvision==0.9.0
+
+## Training
+
+* Step 1: download SEE dataset.
+* Step 2: fill in the your_DFEW_Face_path in script.py, then run script.py.
+* Step 3: run sh DFEW_Five_Fold.sh
 
 ## Documents
 * More [Usages](moco-doc/usage.md)
