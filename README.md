@@ -17,7 +17,7 @@ To address this lack of training data for event-based emotion recognition, we co
 our dataset can be found [here]().
 
 ## our Neworks(SEEN)
-<img width="100%" src="https://github.com/zhanghaiwei1234/Single-eye-Emotion-Recognition/blob/main/img/pipeline-V5.png"></a>
+<img width="100%" src="https://github.com/zhanghaiwei1234/Single-eye-Emotion-Recognition/blob/main/img/pipeline-v5.png"></a>
 
 
 ## Requirements
