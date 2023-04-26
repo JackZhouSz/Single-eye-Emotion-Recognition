@@ -18,11 +18,11 @@ our dataset can be found [here]().
 
 ## Requirements
 
-* CUDA == 11.1
-
-* Python == 3.8
+* Python == 3.7
  
-* Pytorch == '1.7.0+cu110'
+* Pytorch == '1.9.0'
+
+* CUDA == 11.4
 
 ## Documents
 * More [Usages](moco-doc/usage.md)
