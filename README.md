@@ -1,5 +1,5 @@
 # In the Blink of an Eye: Event-based Emotion Recognition
-Haiwei Zhang, [Jiqing Zhang](https://zhangjiqing.com), [Bo Dong](https://dongshuhao.github.io/), Pipter peers, Wenwei Wu, Xiaopeng Wei, Felix Heide, [Xin Yang](https://xinyangdut.github.io/)
+Haiwei Zhang, [Jiqing Zhang](https://zhangjiqing.com), [Bo Dong](https://dongshuhao.github.io/), Pieter peers, Wenwei Wu, Xiaopeng Wei, Felix Heide, [Xin Yang](https://xinyangdut.github.io/)
 
 [[paper]( https://doi.org/10.1145/3588432.3591511)] [[dataset]()]
 
